@@ -1,0 +1,17 @@
+.hot{
+    display: flex;
+    margin:auto;
+    width:90vw;
+    border:2px solid rgb(221, 136, 136);
+
+}
+.hot>div>img{
+    width:auto;
+    height:auto;
+}
+.card{
+    background-color: rgb(252, 252, 252);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

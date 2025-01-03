@@ -1,0 +1,48 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 191, 180);
+    color: black;
+}
+.logo1{
+    background-color: rgb(255, 77, 0);
+    border-radius:20%;
+   cursor: pointer;
+   overflow: hidden;
+   width:55px;
+   position: relative;
+
+}
+.logoimg{
+    transform: translateX(-55px);
+}
+.logoimg:hover{
+    transform: translateX(0px);
+}
+.navlinks{
+   padding: 5px;
+   margin: 5px;
+   display: flex;
+   gap: 20px;
+   font-size:20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+.navlinks>.navlink{
+    text-decoration: none;
+    color: black;
+}
+.navlinks>.navlink:hover{
+    color:rgb(43, 43, 113)
+}
+.input{
+    padding:5px;
+    border-bottom: 1px solid black;
+    border:none;
+    border-radius: 5px;
+}
+.icon{
+    margin-left:10px;
+}
