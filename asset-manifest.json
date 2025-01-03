@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MIWEB/static/css/main.0fa89f94.css",
-    "main.js": "/MIWEB/static/js/main.d3d15ad6.js",
-    "static/js/453.c8013b39.chunk.js": "/MIWEB/static/js/453.c8013b39.chunk.js",
-    "static/media/logo.svg": "/MIWEB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MIWEB/index.html",
-    "main.0fa89f94.css.map": "/MIWEB/static/css/main.0fa89f94.css.map",
-    "main.d3d15ad6.js.map": "/MIWEB/static/js/main.d3d15ad6.js.map",
-    "453.c8013b39.chunk.js.map": "/MIWEB/static/js/453.c8013b39.chunk.js.map"
+    "main.css": "/miweb/static/css/main.0fa89f94.css",
+    "main.js": "/miweb/static/js/main.068379b4.js",
+    "static/js/453.c8013b39.chunk.js": "/miweb/static/js/453.c8013b39.chunk.js",
+    "static/media/logo.svg": "/miweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/miweb/index.html",
+    "main.0fa89f94.css.map": "/miweb/static/css/main.0fa89f94.css.map",
+    "main.068379b4.js.map": "/miweb/static/js/main.068379b4.js.map",
+    "453.c8013b39.chunk.js.map": "/miweb/static/js/453.c8013b39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fa89f94.css",
-    "static/js/main.d3d15ad6.js"
+    "static/js/main.068379b4.js"
   ]
 }
